@@ -1,4 +1,4 @@
-# saherator
+# Šaherator
 
 A bitboard-based chess engine written from scratch in C++.
 
