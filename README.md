@@ -39,7 +39,6 @@ Challenge it at: https://lichess.org/@/saherator
 ## Roadmap
 
 - Add Build instructions for the engine
-
 - Multithreading options for search
 - Static exchange evaluation (SEE)
 - Quiescence improvements
